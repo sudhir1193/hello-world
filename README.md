@@ -6,3 +6,4 @@ trying to get into a conflict
 working with status and diff
 
 modified, staged and removed
+fetch
